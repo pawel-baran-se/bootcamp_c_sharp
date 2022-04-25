@@ -7,10 +7,10 @@ namespace Zadanie_C_sharp_20220411
     {
         static void Main(string[] args)
         {
-            LetterToAsci();
+            ToAsci();
         }
 
-        private static void LetterToAsci()
+        private static void ToAsci()
         {
             char providedKeyChar;
             bool doWhile = true;
